@@ -43,7 +43,7 @@
     "axios-mock-adapter": "^1.18.1",
     "babel-jest": "^27.0.1",
     "eslint": "^8.0.1",
-    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-airbnb": "^19.0.0",
     "eslint-config-airbnb-typescript": "^15.0.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-import-resolver-typescript": "^2.4.0",
