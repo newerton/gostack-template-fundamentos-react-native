@@ -13,7 +13,7 @@
     "@react-native-community/async-storage": "^1.12.1",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^7.0.0",
-    "@react-navigation/stack": "^6.0.1",
+    "@react-navigation/stack": "^7.0.0",
     "axios": "^1.1.2",
     "intl": "^1.2.5",
     "json-server": "^0.17.0",
